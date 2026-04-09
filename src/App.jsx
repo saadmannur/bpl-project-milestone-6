@@ -4,6 +4,7 @@ import Banner from './Components/Banner/Banner'
 import Navbar from './Components/Navbar/Navbar'
 import Players from './Components/Players/Players';
 import { Divide } from 'lucide-react';
+import { ToastContainer } from 'react-toastify';
 
 
 const fetchPlayer = async () => {
@@ -27,6 +28,9 @@ function App() {
           coins={coins}
         ></Players>
       </Suspense>
+
+
+      <ToastContainer></ToastContainer>
     </>
   )
 }

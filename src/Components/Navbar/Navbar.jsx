@@ -59,6 +59,9 @@ const Navbar = ({coins}) => {
                     </button>
                 </div>
             </div>
+            <div>
+                <h2>netlify project test</h2>
+            </div>
         </div>
     );
 };
