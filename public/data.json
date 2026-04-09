@@ -7,7 +7,7 @@
         "rating": 9.5,
         "battingStyle": "Left-hand bat",
         "bowlingStyle": "Left-arm orthodox",
-        "price": 120000,
+        "price": 12000,
         "playerImage": "https://i.ibb.co.com/XfrGD154/shakib-al-hassan.webp"
     },
     {
@@ -18,7 +18,7 @@
         "rating": 9.8,
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm medium",
-        "price": 150000,
+        "price": 15000,
         "playerImage": "https://i.ibb.co.com/XxJydpMm/virat.jpg"
     },
     {
@@ -29,7 +29,7 @@
         "rating": 9.2,
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm offbreak",
-        "price": 130000,
+        "price": 13000,
         "playerImage": "https://i.ibb.co.com/m53MQPZL/jeo-root.jpg"
     },
     {
@@ -40,7 +40,7 @@
         "rating": 9.4,
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm offbreak",
-        "price": 140000,
+        "price": 14000,
         "playerImage": "https://i.ibb.co.com/hQKyS5G/babar.webp"
     },
     {
@@ -51,7 +51,7 @@
         "rating": 9.6,
         "battingStyle": "Left-hand bat",
         "bowlingStyle": "Right-arm fast",
-        "price": 145000,
+        "price": 14500,
         "playerImage": "https://i.ibb.co.com/tpZqvVCc/ben-stoke.jpg"
     },
     {
@@ -62,7 +62,7 @@
         "rating": 9.3,
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm offbreak",
-        "price": 135000,
+        "price": 13500,
         "playerImage": "https://i.ibb.co.com/KpVWw8nh/Kane-Williams.webp"
     },
     {
@@ -73,7 +73,7 @@
         "rating": 9.1,
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm fast",
-        "price": 125000,
+        "price": 12500,
         "playerImage": "https://i.ibb.co.com/n8Pk79VN/pat-cummins.webp"
     },
     {
@@ -84,7 +84,7 @@
         "rating": 9.7,
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm fast",
-        "price": 150000,
+        "price": 15000,
         "playerImage": "https://i.ibb.co.com/d0P6mJVj/bhumrah.webp"
     },
     {
@@ -95,7 +95,7 @@
         "rating": 9.0,
         "battingStyle": "Left-hand bat",
         "bowlingStyle": "Right-arm legbreak",
-        "price": 110000,
+        "price": 11000,
         "playerImage": "https://i.ibb.co.com/WCVHVB0/warner.webp"
     },
     {
@@ -106,7 +106,7 @@
         "rating": 9.6,
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm legbreak",
-        "price": 140000,
+        "price": 14000,
         "playerImage": "https://i.ibb.co.com/FqDYzXhS/rashid.jpg"
     },
     {
@@ -117,7 +117,7 @@
         "rating": 8.9,
         "battingStyle": "Left-hand bat",
         "bowlingStyle": "Right-arm offbreak",
-        "price": 115000,
+        "price": 11500,
         "playerImage": "https://i.ibb.co.com/pBbpnHxt/Chris-Gayle-8.webp"
     },
     {
@@ -128,7 +128,7 @@
         "rating": 8.8,
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm fast",
-        "price": 120000,
+        "price": 12000,
         "playerImage": "https://i.ibb.co.com/rf3h42w1/Andre-Russell.webp"
     },
     {
@@ -139,7 +139,7 @@
         "rating": 9.2,
         "battingStyle": "Left-hand bat",
         "bowlingStyle": "Left-arm fast",
-        "price": 130000,
+        "price": 13000,
         "playerImage": "https://i.ibb.co.com/gM9B0tdg/mitchell-starc-biography-21-06-2024.jpg"
     },
     {
@@ -150,7 +150,7 @@
         "rating": 9.4,
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm offbreak",
-        "price": 145000,
+        "price": 14500,
         "playerImage": "https://i.ibb.co.com/DDXS8zyG/rohit.avif"
     },
     {
@@ -161,7 +161,7 @@
         "rating": 8.7,
         "battingStyle": "Right-hand bat",
         "bowlingStyle": "Right-arm offbreak",
-        "price": 100000,
+        "price": 10000,
         "playerImage": "https://i.ibb.co.com/xKfydxdm/mujeebheadshot-min.jpg"
     }
 ]

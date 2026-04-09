@@ -32,7 +32,7 @@ const navItems = [
 ];
 
 
-const Navbar = () => {
+const Navbar = ({coins}) => {
     const [open, setOpen] = useState(false)
     const navLinks = navItems.map(item => <NavLink key={item.id} item={item}></NavLink>)
     return (
@@ -54,7 +54,7 @@ const Navbar = () => {
                         {navLinks}
                     </ul>
                     <button className='btn font-bold text-xl'>
-                        <p><span>0</span> Coins</p>
+                        <p>${coins} Coins</p>
                         <img src={dollarImg} alt="" />
                     </button>
                 </div>
